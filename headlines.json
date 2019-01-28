@@ -1,0 +1,8 @@
+{
+  "headline" : "example headline",
+  "percentage" : 70.9,
+  "agencies" : [
+    "cnn",
+    "al-jazeera"
+  ]
+}
